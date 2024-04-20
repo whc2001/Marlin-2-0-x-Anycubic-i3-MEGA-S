@@ -286,7 +286,7 @@
 #if ANY(KNUTWURST_CHIRON, KNUTWURST_4MAXP2)
   #define FIL_RUNOUT_PIN 33
 #else
-  #define FIL_RUNOUT_PIN 19
+  #define FIL_RUNOUT_PIN 6
 #endif
 
 #ifndef PS_ON_PIN
